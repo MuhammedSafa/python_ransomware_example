@@ -5,3 +5,5 @@
 
 ## Resources
 - https://cryptography.io/en/latest/fernet/
+
+##Note: For educational purposes only
